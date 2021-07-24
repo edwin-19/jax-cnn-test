@@ -8,6 +8,7 @@ For a fair comparison we are going to use tensorflow gradient api
 - [x] CNN Jax Evaluate
 - [x] TF 2 CNN Train
 - [x] TF 2 CNN Evaluate
+- [ ] Write down comparision
 
 # Model Performance Comparison
 TBA
