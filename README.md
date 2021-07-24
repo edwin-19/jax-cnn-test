@@ -6,8 +6,8 @@ For a fair comparison we are going to use tensorflow gradient api
 # TODO
 - [x] CNN Jax Train
 - [x] CNN Jax Evaluate
-- [ ] TF 2 CNN Train
-- [ ] TF 2 CNN Evaluate
+- [x] TF 2 CNN Train
+- [x] TF 2 CNN Evaluate
 
 # Model Performance Comparison
 TBA
